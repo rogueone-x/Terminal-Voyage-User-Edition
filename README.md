@@ -2,19 +2,13 @@
 
 ## Prologue – The Logbook of the Grand Line
 
-> _"A pirate who relies only on memory will never reach the end of the Grand Line."_
+> A pirate who relies only on memory will never reach the end of the Grand Line.
 
 Welcome, Captain.
 
 You are about to embark on a voyage unlike any other. The seas ahead are filled with hidden truths, forgotten histories, and mysteries buried beneath layers of deception. Every island you visit will test not only your courage, but also your ability to observe, investigate, and think like a true explorer.
 
-Rumors speak of a legendary Devil Fruit known only as the **Gito Gito no Mi**. Unlike any ordinary Devil Fruit, its power does not command fire, storms, or the sea.
-
-It commands **history**.
-
-Those who awaken its abilities can uncover forgotten events, walk through parallel timelines, recover what has been erased, and reshape the course of history itself.
-
-The World Government has spent years trying to suppress its existence.
+Rumors speak of a legendary Devil Fruit known only as the **Gito Gito no Mi**. Unlike any ordinary Devil Fruit, its power does not command fire, storms, or the sea. It commands **history**. Those who awaken its abilities can uncover forgotten events, walk through parallel timelines, recover what has been erased, and reshape the course of history itself. The World Government has spent years trying to suppress its existence.
 
 Your journey begins where many great pirate legends began...
 
@@ -26,17 +20,16 @@ Your journey begins where many great pirate legends began...
 
 A true pirate always keeps a captain's log.
 
-Before starting, open **another terminal window or tab** and dedicate it as your **Logbook**. Throughout your adventure you will discover flags, cipher fragments, mysterious keywords, and other pieces of information that may become important much later in your voyage.
+Before starting, create a `Logbook` in the Task-01 directory. Throughout your adventure you will discover flags, cipher fragments, mysterious keywords, and other pieces of information that may become important much later in your voyage. Capture them and include a screenshot, since some discoveries may not become useful until much later in the journey. **It is mandatory to include screenshots and submit a writeup explaining how you did each level in detail**.
 
-Not everything you find will seem useful immediately.
-
+Not everything you find will seem useful immediately.\
 The Grand Line rewards captains who keep careful records.
 
 ---
 
 # LEVEL 1 — AWAKENING AT LOGUETOWN REEF
 
-_"Every great voyage begins with a single discovery."_
+> Every great voyage begins with a single discovery
 
 The waters surrounding Loguetown are unusually quiet.
 
@@ -62,7 +55,7 @@ May your journey begin.
 
 # LEVEL 2 — THE TWO FACES OF WHISKEY PEAK
 
-_"Not every island tells the same story."_
+> Not every island tells the same story.
 
 Your newly awakened power carries you safely into the Grand Line.
 
@@ -88,7 +81,7 @@ Truth rarely hides in what remains the same.
 
 # LEVEL 3 — THE WAX LABYRINTH OF LITTLE GARDEN
 
-_"The easiest way to hide something is to bury it beneath everything else."_
+> The easiest way to hide something is to bury it beneath everything else.
 
 Little Garden should have been an island of giants.
 
@@ -112,7 +105,7 @@ Within it lies the first fragment needed to uncover the road ahead.
 
 # LEVEL 4 — THE CAMOUFLAGED BLUEPRINTS OF WATER 7
 
-_"Names can be changed. True nature cannot."_
+> Names can be changed. True nature cannot.
 
 The city of Water 7 stands on edge.
 
@@ -140,7 +133,7 @@ Inside awaits the second cipher fragment.
 
 # LEVEL 5 — THE BUSTER CALL TIMELINE RECOVERY
 
-_"History can be destroyed... but it cannot always be erased."_
+> History can be destroyed... but it cannot always be erased.
 
 The Buster Call has arrived.
 
